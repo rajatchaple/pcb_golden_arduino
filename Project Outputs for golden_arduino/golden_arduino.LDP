@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\Projects\PCB\golden_arduino_board\golden_arduino.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=golden_arduino-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=golden_arduino-slotholes.txt|DrillLayers=gtl,gbl

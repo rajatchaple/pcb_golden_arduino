@@ -1,0 +1,17 @@
+Change Net Name : Old Net Name=MISO New Net Name=PB4/MISO
+Change Net Name : Old Net Name=MOSI New Net Name=PB3/MOSI
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=PB0
+Change Net Name : Old Net Name=NetJ8_2 New Net Name=PB1
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=PD2
+Change Net Name : Old Net Name=NetJ9_4 New Net Name=PD3
+Change Net Name : Old Net Name=NetJ9_8 New Net Name=PD7
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=PC0
+Change Net Name : Old Net Name=NetJ10_2 New Net Name=PC1
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=PC2
+Change Net Name : Old Net Name=NetJ10_4 New Net Name=PC3
+Change Net Name : Old Net Name=SCK New Net Name=PB5/SCK
+Change Net Name : Old Net Name=SS New Net Name=PB2/SS
+Added Member To Class: ClassName=golden_arduino Member=Component J6 PPTC081LFBN-RC
+Added Member To Class: ClassName=golden_arduino Member=Component J7 PPTC081LFBN-RC
+Added Member To Class: ClassName=golden_arduino Member=Component J9 PPTC081LFBN-RC
+Added Member To Class: ClassName=golden_arduino Member=Component J10 PPTC061LFBN-RC

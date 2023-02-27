@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=XTAL1_328P Pin=U2-7
+Removed Pin From Net: NetName=XTAL2_328P Pin=U2-8
+Added Component: Designator=TP3(TP10x_Probe)
+Added Component: Designator=TP4(TP10x_Probe)
+Added Pin To Net: NetName=+5v Pin=D1-6
+Added Pin To Net: NetName=XTAL1_328P Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=Reset Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=XTAL2_328P Pin=U2-7
+Added Pin To Net: NetName=XTAL1_328P Pin=U2-8
+Change Net Name : Old Net Name=NetC9_2 New Net Name=AVCC
+Change Net Name : Old Net Name=XTAL1_328P New Net Name=XTAL2_328P
+Change Net Name : Old Net Name=XTAL2_328P New Net Name=XTAL1_328P
+Added Member To Class: ClassName=golden_arduino Member=Component TP3 OSC16
+Added Member To Class: ClassName=golden_arduino Member=Component TP4 TP_5V
+Added Room: Name=golden_arduino
