@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=XTAL1_328P Pin=U2-7
-Removed Pin From Net: NetName=XTAL2_328P Pin=U2-8
-Added Pin To Net: NetName=XTAL2_328P Pin=U2-7
-Added Pin To Net: NetName=XTAL1_328P Pin=U2-8
-Change Net Name : Old Net Name=XTAL1_328P New Net Name=XTAL2_328P
-Change Net Name : Old Net Name=XTAL2_328P New Net Name=XTAL1_328P

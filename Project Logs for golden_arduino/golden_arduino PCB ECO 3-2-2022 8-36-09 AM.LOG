@@ -1,8 +1,0 @@
-Added Component: Designator=J?(8_PIN_ARDUINO_100MIL)
-Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Digikey Part"; Value = "S7006-ND"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=GND Pin=J?-8
-Added Member To Class: ClassName=golden_arduino Member=Component J? PPTC081LFBN-RC
